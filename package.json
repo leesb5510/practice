@@ -1,0 +1,8 @@
+{
+  "name": "NextPractice",
+  "version": "1.22.22",
+  "main": "app",
+  "repository": "https://github.com/leesb5510/practice",
+  "author": "Seung Bin Lee <leesb5510@gmail.com>",
+  "license": "MIT"
+}
